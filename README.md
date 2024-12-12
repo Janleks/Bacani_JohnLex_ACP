@@ -83,4 +83,4 @@ Contributions to improve Serchie are welcome. Please follow these steps:
 
 [Your Name/Organization] - [Your Email]
 
-Project Link: [https://github.com/yourusername/serchie-housing-finder](https://github.com/Janleks/serchie-housing-finder)
+Project Link: [https://github.com/Janleks/serchie-housing-finder](https://github.com/Janleks/serchie-housing-finder)
